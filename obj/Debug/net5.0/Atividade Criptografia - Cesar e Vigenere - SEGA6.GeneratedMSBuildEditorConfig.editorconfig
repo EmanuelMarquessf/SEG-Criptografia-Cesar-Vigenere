@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Atividade_Criptografia___Cesar_e_Vigenere___SEGA6
+build_property.ProjectDir = C:\Users\nelph\Documents\ADS\6 Semestre\Seg\Atividade Criptografia - Cesar e Vigenere - SEGA6\Atividade Criptografia - Cesar e Vigenere - SEGA6\

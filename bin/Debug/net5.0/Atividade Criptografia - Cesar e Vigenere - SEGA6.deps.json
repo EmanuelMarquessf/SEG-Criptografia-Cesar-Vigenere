@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Atividade Criptografia - Cesar e Vigenere - SEGA6/1.0.0": {
+        "runtime": {
+          "Atividade Criptografia - Cesar e Vigenere - SEGA6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade Criptografia - Cesar e Vigenere - SEGA6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
